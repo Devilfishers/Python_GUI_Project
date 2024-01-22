@@ -1,0 +1,19 @@
+name_admin_treeview:Name
+email_admin_treeview:Email
+phone_number_admin_treeview:Phone
+search_button:Search
+name_radiobutton:Name
+email_radiobutton:Email
+phone_number_radiobutton:Phone Number
+back_button:Back
+remove_selected_button:Remove Selected
+name_add_label:Name
+email_add_label:Email
+phone_number_add_label:Phone
+password_add_label:Password
+password_retype_add_label:Password Again
+add_admin_button:Add Admin
+add_admin_error_label:
+add_admin_error_label_1:Admin with this name already exists.
+add_admin_error_label_2:Please fill all the fields.
+add_admin_error_label_3:Passwords doesnt match up.

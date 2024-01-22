@@ -1,0 +1,29 @@
+isbn_book_treeview:ISBN
+title_book_treeview:Başlık
+author_book_treeview:Yazar
+genre_book_treeview:Tür
+quantity_book_treeview:Miktar
+available_book_treeview:Hazır
+borrowed_book_treeview:Emanet
+search_button:Arat
+isbn_radiobutton:ISBN
+title_radiobutton:Başlık
+author_radiobutton:Yazar
+genre_radiobutton:Tür
+quantity_radiobutton:Miktar
+available_radiobutton:Hazır
+borrowed_radiobutton:Emanet
+back_button:Geri
+remove_selected_button:Seçileni Sil
+isbn_add_label:ISBN
+title_add_label:Başlık
+author_add_label:Yazar
+genre_add_label:Tür
+quantity_add_label:Miktar
+available_add_label:Hazır
+borrowed_add_label:Emanet
+add_book_button:Kitap Ekle
+add_book_error_label:
+add_book_error_label_1:ISBN kayıtlı, detaylar uyuşmuyor.
+add_book_error_label_2:Miktar sayı olmalı.
+add_book_error_label_3:Lütfen tüm alanları doldurun.

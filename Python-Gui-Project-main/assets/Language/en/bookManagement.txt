@@ -1,0 +1,24 @@
+isbn_book_treeview:ISBN
+title_book_treeview:Title
+author_book_treeview:Author
+genre_book_treeview:Genre
+quantity_book_treeview:Quantity
+available_book_treeview:Available
+borrowed_book_treeview:Borrowed
+search_button:Search
+isbn_radiobutton:ISBN
+title_radiobutton:Title
+author_radiobutton:Author
+genre_radiobutton:Genre
+back_button:Back
+remove_selected_button:Remove Selected
+isbn_add_label:ISBN
+title_add_label:Title
+author_add_label:Author
+genre_add_label:Genre
+quantity_add_label:Quantity
+add_book_button:Add Book
+add_book_error_label:
+add_book_error_label_1:ISBN exists, details don't match up.
+add_book_error_label_2:Invalid quantity: must be an integer.
+add_book_error_label_3:Please fill all the fields.

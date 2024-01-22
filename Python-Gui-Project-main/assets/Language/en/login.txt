@@ -1,0 +1,6 @@
+username_label:Username:
+password_label:Password:
+login_button:Login
+error_label:
+error_label_1:Admin does not exist!
+error_label_2:Password is incorrect!

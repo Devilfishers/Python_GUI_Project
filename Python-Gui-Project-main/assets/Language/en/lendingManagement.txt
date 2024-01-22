@@ -1,0 +1,15 @@
+student_id_lending_treeview:Student Id
+name_lending_treeview:Name
+isbn_lending_treeview:ISBN
+title_lending_treeview:Title
+author_lending_treeview:Author
+genre_lending_treeview:Genre
+search_button:Search
+student_id_radiobutton:Student Id
+name_radiobutton:Name
+isbn_radiobutton:ISBN
+title_radiobutton:Title
+author_radiobutton:Author
+genre_radiobutton:Genre
+back_button:Back
+remove_selected_button:Remove Selected

@@ -1,0 +1,6 @@
+username_label:Kullanıcı Adı:
+password_label:Şifre:
+login_button:Giriş Yap
+error_label:
+error_label_1:Admin yok!
+error_label_2:Şifre yanlış!

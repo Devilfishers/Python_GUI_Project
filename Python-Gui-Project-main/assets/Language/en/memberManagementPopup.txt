@@ -1,0 +1,16 @@
+isbn_book_treeview:ISBN
+title_book_treeview:Title
+author_book_treeview:Author
+genre_book_treeview:Genre
+search_button:Search
+isbn_radiobutton:ISBN
+title_radiobutton:Title
+author_radiobutton:Author
+genre_radiobutton:Genre
+back_button:Back
+student_id_label:Student Id
+name_label:Name
+return_book_button:Return Book
+return_book_error_label:
+return_book_error_label_1:No record found.
+return_book_error_label_2:Pick a book.

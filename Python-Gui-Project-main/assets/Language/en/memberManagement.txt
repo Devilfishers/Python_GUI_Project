@@ -1,0 +1,13 @@
+student_id_member_treeview:Student Id
+name_member_treeview:Name
+search_button:Search
+student_id_radiobutton:Student Id
+name_radiobutton:Name
+back_button:Back
+remove_selected_button:Remove Selected
+student_id_add_label:Student Id
+name_add_label:Name
+add_member_button:Add Member
+add_member_error_label:
+add_member_error_label_1:Member with ID already exists.
+add_member_error_label_2:Please fill all the fields.

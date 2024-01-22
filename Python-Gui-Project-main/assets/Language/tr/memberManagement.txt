@@ -1,0 +1,13 @@
+student_id_member_treeview:Öğrenci No
+name_member_treeview:İsim
+search_button:Search
+student_id_radiobutton:Öğrenci No
+name_radiobutton:İsim
+back_button:Geri
+remove_selected_button:Seçileni Sil
+student_id_add_label:Öğrenci Nuo
+name_add_label:İsim
+add_member_button:Üye Ekle
+add_member_error_label:
+add_member_error_label_1:Bu numara ile kayıtlı üye zaten var.
+add_member_error_label_2:Lütfen tüm alanları doldurun.

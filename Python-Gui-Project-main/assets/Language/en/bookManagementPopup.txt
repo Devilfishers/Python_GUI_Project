@@ -1,0 +1,18 @@
+student_id_member_treeview:Student Id
+name_member_treeview:Name
+search_button:Search
+student_id_radiobutton:Student Id
+name_radiobutton:Name
+back_button:Back
+isbn_label:ISBN
+title_label:Title
+author_label:Author
+genre_label:Genre
+quantity_label:Quantity
+available_label:Available
+borrowed_label:Borrowed
+lend_book_button:Lend Book
+lend_book_error_label:
+lend_book_error_label_1:User already borrowed this book.
+lend_book_error_label_2:Book is not available.
+lend_book_error_label_3:Pick a member.

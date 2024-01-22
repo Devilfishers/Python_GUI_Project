@@ -1,0 +1,5 @@
+book_management_button:Book Management
+member_management_button:Member Management
+admin_management_button:Admin Management
+lending_management_button:Lending Management
+logout_button:Logout

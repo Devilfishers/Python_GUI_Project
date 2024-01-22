@@ -1,0 +1,19 @@
+isbn_book_treeview:ISBN
+title_book_treeview:Başlık
+author_book_treeview:Yazar
+genre_book_treeview:Tür
+quantity_book_treeview:Miktar
+available_book_treeview:Hazır
+borrowed_book_treeview:Emanet
+search_button:Arat
+isbn_radiobutton:ISBN
+title_radiobutton:Başlık
+author_radiobutton:Yazar
+genre_radiobutton:Tür
+back_button:Geri
+student_id_label:Öğrenci No
+name_label:İsim
+return_book_button:Geri Al
+return_book_error_label:
+return_book_error_label_1:Rekor Bulunamadı.
+return_book_error_label_2:Kitap Seçin.

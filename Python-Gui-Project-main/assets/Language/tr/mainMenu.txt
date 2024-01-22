@@ -1,0 +1,5 @@
+book_management_button:Kitap Yönetimi
+member_management_button:Üye Yönetimi
+admin_management_button:Admin Yönetimi
+lending_management_button:Emanet Yönetimi
+logout_button:Çıkış

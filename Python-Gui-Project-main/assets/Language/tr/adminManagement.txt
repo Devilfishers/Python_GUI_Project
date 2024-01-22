@@ -1,0 +1,19 @@
+name_admin_treeview:İsim
+email_admin_treeview:E-posta
+phone_number_admin_treeview:Telefon
+search_button:Ara
+name_radiobutton:İsim
+email_radiobutton:E-posta
+phone_number_radiobutton:Telefon Numarası
+back_button:Geri
+remove_selected_button:Seçileni Sil
+name_add_label:İsim
+email_add_label:E-posta
+phone_number_add_label:Telefon Numarası
+password_add_label:Şifre
+password_retype_add_label:Şifre Tekrar
+add_admin_button:Yönetici Ekle
+add_admin_error_label:
+add_admin_error_label_1:Bu adla kayıtlı yönetici zaten var.
+add_admin_error_label_2:Lütfen tüm alanları doldurun.
+add_admin_error_label_3:Şifreler eşleşmiyor.
